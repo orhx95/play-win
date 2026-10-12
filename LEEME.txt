@@ -1,0 +1,3 @@
+PLAY&WIN WEB — prototipo móvil
+Abre index.html en un navegador moderno. El progreso se guarda en localStorage del navegador.
+Para publicarlo en una URL HTTPS y añadirlo a la pantalla de inicio desde iPhone, súbelo a un servicio de alojamiento estático gratuito. No contiene backend ni pagos reales.
